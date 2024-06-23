@@ -1,0 +1,15 @@
+.jeden,
+.dwa {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+}
+
+.jeden {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.dwa {
+    background-color: yellow;
+}
